@@ -5,7 +5,12 @@
         "noise"
     ],
 
-    "banner" : ["/banner/1.webp","/banner/2.webp","/banner/3.jpeg","/banner/4.jpeg","/banner/5.jpeg","/banner/6.jpeg","/banner/7.png"],
+    "banner" : [
+        "https://www.dealsshutter.com/blog/wp-content/uploads/2017/09/flipkart-big-billion-days-sale-1.jpg",
+        "https://www.dealsshutter.com/blog/wp-content/uploads/2020/10/big-billion-days-1.jpg",
+        "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202109/Screenshot_2021-09-26_at_4.40._1200x768.png?size=690:388",
+        "https://static.india.com/wp-content/uploads/2021/09/flipkart-big-billion-days-sale-2021.jpg?impolicy=Medium_Widthonly&w=700"
+    ],
     "timer":{"label":"FLIPKART EID SALE", "time" : 5},
     "upi": "arman658@paytm",
     
